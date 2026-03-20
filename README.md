@@ -3,10 +3,10 @@
 An interactive Power BI project designed to provide real-time insights into credit card customer demographics and transaction patterns. It has 2 report pages:
 
 1. ## Customer Report
-![Customer Report](customer.png)
+![Customer Report](cccr.png)
 
 2. ## Transaction Report
-![Transaction Report](transaction.png)
+![Transaction Report](cctr.png)
 
 ## Project Overview
 The goal of this project is to provide a 360-degree view of credit card operations. It consists of two main reports:
